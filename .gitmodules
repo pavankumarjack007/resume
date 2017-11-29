@@ -1,3 +1,6 @@
 [submodule "themes/hugo-orbit-theme"]
 	path = themes/hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme
+[submodule "themes/hugo-vitae"]
+	path = themes/hugo-vitae
+	url = https://github.com/nurlansu/hugo-vitae
