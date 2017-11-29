@@ -7,9 +7,9 @@ theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 # Do not build files for websites. Need them? Set to false
-#disableRSS = true
-#disableSitemap = true
-#disable404 = true
+disableRSS = true
+disableSitemap = true
+disable404 = true
 
 [params]
 
