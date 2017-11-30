@@ -7,5 +7,5 @@ source:
   - name: [Java, Python, PHP, Git]
     stars: 4
 
-  - name: [HTML/CSS3, Javascript]
+  - name: [HTML/CSS3, Javascript, bang]
     stars: 3
