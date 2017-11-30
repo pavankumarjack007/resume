@@ -1,10 +1,10 @@
 name: Skills
 title: Rated
+
 source:
   - name: [Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, Toolkits like CNTK, Caffe2, Keras and Tensorflow, nvidia-docker]
     stars: 4
 
-source:
   - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit,]
     stars: 4
 
