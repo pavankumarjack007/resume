@@ -7,6 +7,12 @@ source:
 
   - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit,]
     stars: 4
-
+    
+  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
+    stars: 3
+    
+  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
+    stars: 3
+     
   - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
     stars: 3
