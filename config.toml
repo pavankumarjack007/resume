@@ -6,7 +6,7 @@ googleAnalytics = ""
 theme = "hugo-vitae"
 
 [params]
-  author = "Dwai Banerjee"
+  author = "Dwaipayan Banerjee"
   title = "Dwai Banerjee's Resume"
   description = "Dwai Banerjee's Awesome Resume"
   avatar = "3b27979.jpg"
