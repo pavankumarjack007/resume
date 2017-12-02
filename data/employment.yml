@@ -1,5 +1,10 @@
-name: Employment
+name: Highlights & Employment 
 source:
+  - prof: Highlights
+    #place: HCL Technologies, The Netherlands
+    #time: May, 2017 to Present
+    description: Lorem ipsum dolor sit amet, his et viris petentium philosophia, at vix debitis deleniti. At vis velit volumus alienum, agam vocent assueverit usu ex.
+
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
