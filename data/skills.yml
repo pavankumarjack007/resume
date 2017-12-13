@@ -2,17 +2,38 @@ name: Skills
 title: Rated
 
 source:
-  - name: [Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, Toolkits like CNTK, Caffe2, Keras and Tensorflow, nvidia-docker]
+  - name: [Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, NVIDIA DIGITS, Toolkits like CNTK, Caffe2, Keras and Tensorflow, nvidia-docker]
     stars: 4
 
-  - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit,]
+  - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit]
     stars: 4
     
-  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
-    stars: 3
+  - name: [Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX]
+    stars: 5
     
   - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
     stars: 3
-     
-  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
+    
+  - name: [DB2, Oracle RDBMS, SQL Server, Postgressql, Redis, mongodb, HBase]
     stars: 3
+     
+  - name: [Hadoop Data Platform.components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy]
+    stars: 3
+      
+  - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
+    stars: 4
+     
+  - name: [API Management , API Security, API Design, node-red, netflix spring boot, Loopback, 3scale, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
+    stars: 4
+    
+  - name: [Hypervisors, KVM, Hyper-V, VMWare, vagrant, Hashicorp tools]
+    stars: 4
+  
+  - name: [Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs]
+    stars: 4
+    
+   - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
+    stars: 4
+     
+    
+  
