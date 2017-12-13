@@ -10,16 +10,7 @@ source:
     
   - name: [Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX]
     stars: 5
-    
-  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
-    stars: 3
-    
-  - name: [DB2, Oracle RDBMS, SQL Server, Postgressql, Redis, mongodb, HBase]
-    stars: 3
      
-  - name: [Hadoop Data Platform.components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy]
-    stars: 3
-      
   - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
     stars: 4
      
@@ -34,6 +25,15 @@ source:
     
   - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
     stars: 4
+    
+  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
+    stars: 3
+    
+  - name: [DB2, Oracle RDBMS, SQL Server, Postgressql, Redis, mongodb, HBase]
+    stars: 3
      
+  - name: [Hadoop Data Platform.components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy]
+    stars: 3
+ 
     
   
