@@ -32,7 +32,7 @@ source:
   - name: [Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs]
     stars: 4
     
-   - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
+  - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
     stars: 4
      
     
