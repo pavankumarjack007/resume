@@ -1,7 +1,9 @@
 name: Employment 
 
 source:
-  -description: Dwai Banerjee is a full stack Architect, recognized as an expert with proven leadership capabilities. Special Interests are in Massively Distributed systems and immutable infrastructures (Infrastructure as code), full stack automated Virtualized MicroServices, HPC, GPUs and RNN/CNN toolkits.
+  - prof: Profile
+    description: Dwai Banerjee is a full stack Architect, recognized as an expert with proven leadership capabilities. Special Interests are in Massively Distributed systems and immutable infrastructures (Infrastructure as code), full stack automated Virtualized MicroServices, HPC, GPUs and RNN/CNN toolkits.
+
 source:
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
