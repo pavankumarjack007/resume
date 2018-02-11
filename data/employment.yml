@@ -8,12 +8,7 @@ source:
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands
     time: January, 2016 to April, 2017
-    description: Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
-    description: HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure.
-    description: These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0.
-    description: Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus.
-    description: Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure). 
-    description: Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
+    description: Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps. HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure. These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0. Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus. Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure). Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
 
   - prof: Principal, Solution Architecture
     place: Exact Software, The Netherlands
