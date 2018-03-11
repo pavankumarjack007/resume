@@ -11,7 +11,13 @@ source:
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands
     time: January, 2016 to April, 2017
-    description: Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps. HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure. These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0. Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus. Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure). Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
+    description: >
+                  Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
+                  HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure.
+                  These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0.
+                  Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus.
+                  Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
+                  Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
 
   - prof: Principal, Solution Architecture
     place: Exact Software, The Netherlands
@@ -26,17 +32,33 @@ source:
   - prof: Domain Solution Architect
     place: Canon Europa N.V., The Netherlands
     time: October, 2011 to January, 2013
-    description: Architect for Integration and Data @ Canon Europa. Design authority for Integration, data and B2B. Designing, building, implementing and managing the Canon landscape in WebSphere, Informatica, Oracle SOA Suite, virtual Infrastructure. Establishing DevOps and automation/scaling for Middleware for platform stabilization. Building the Centre Of Excellence.
+    description: >
+                  Architect for Integration and Data @ Canon Europa.
+                  Design authority for Integration, data and B2B.
+                  Designing, building, implementing and managing the Canon landscape in WebSphere, Informatica, Oracle SOA Suite, virtual Infrastructure.
+                  Establishing DevOps and automation/scaling for Middleware for platform stabilization.
+                  Building the Centre Of Excellence.
     
   - prof: Technical Architect
     place: TMNS B.V., The Netherlands
     time: April, 2009 to October, 2011
-    description: Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects. Consulted, designed and developed for various Dutch and Swiss businesses in the SOA, BPM and CEP space. Architected and programmed a successful CEP based Automated online Ad optimization platform. Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques. Defined roadmaps for autonomic computing and implemented full scale AWS solutions.
+    description: >
+                  Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects.
+                  Consulted, designed and developed for various Dutch and Swiss businesses in the SOA, BPM and CEP space.
+                  Architected and programmed a successful CEP based Automated online Ad optimization platform.
+                  Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques.
+                  Defined roadmaps for autonomic computing and implemented full scale AWS solutions.
     
   - prof: Technical Architect
     place: HCL Technologies, India and the World.
     time: June, 2007 to February, 2009
-    description: Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions. CISCO AON is a network-embedded/ appliance based middleware. Led a team of developers. We developed some of the first Enterprise class SaaS device connectors. Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks. Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate.
+    description: >
+                  Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions.
+                  CISCO AON is a network-embedded/ appliance based middleware.
+                  Led a team of developers.
+                  We developed some of the first Enterprise class SaaS device connectors.
+                  Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks.
+                  Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate.
 
   - prof: Senior Member Technical Staff
     place: Oracle Server Technologies, India.
@@ -46,7 +68,9 @@ source:
   - prof: Engineer
     place: IBM, India and the World.
     time: November, 2003 to April, 2006
-    description: Worked with almost all products of the WebSphere stack, large AIX base setups, developing and consulting for various customers across the globe.
+    description: >
+                  Worked with almost all products of the WebSphere stack,
+                  large AIX base setups, developing and consulting for various customers across the globe.
     
   - prof: Developer
     place: Ontrack Systems Ltd., Calcutta, India
