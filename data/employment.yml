@@ -4,7 +4,9 @@ source:
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
-    description: Public/Private Cloud enablement,Microservices on immutable infrastructures, container standards/implementations for European conglomerates.<br/>HPC/GPU compute fabrics for customers across the world.
+    description: >
+                  Public/Private Cloud enablement,Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
+                  HPC/GPU compute fabrics for customers across the world.
 
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands
