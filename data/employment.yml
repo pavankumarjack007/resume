@@ -4,10 +4,10 @@ source:
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
-    description: |+
-                  Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
-                  Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
-                  Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
+    description:  >\n
+                  ··Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.:\n
+                  ··Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.:\n
+                  ··Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.:\n
 
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands
