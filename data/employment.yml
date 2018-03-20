@@ -4,9 +4,7 @@ source:
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
-
     description: > Senior Solution Director working cross verticals and responsible for our customer solutions. Work heavily with our Center of Excellence and implementation teams for reusable scalable all layer stacks.
-
     description1: >
                   Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
     description2: >
@@ -23,7 +21,6 @@ source:
     time: January, 2016 to April, 2017
     description: >
                   Specialized in HPC and GPU Computes for Energy upstream industry, contributed heavily to IaaC topology automation for Azure and NVIDIA as opensource. Worked on early Docker Data Center Automated topologies and contributed for Azure opensource.
-
     description1: >
                   Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
     description2: >
@@ -45,7 +42,6 @@ source:
     place: Enable-U B.V., The Netherlands
     time: February 2013 to July, 2015
     description: Worked on a discovery engine for systinet with large businesses/organisations using for governance, besides standard integration and  infrastrucure for Layer7 security rings deployment.
-
     description1: >
                   Systinet Dev for Various Governance as a discovery engine.
     description2: >
@@ -62,7 +58,6 @@ source:
     time: October, 2011 to January, 2013
     description: >
                   Domain Solution Architect for Integration and Data for Canon Europa N.V.
-
     description1: >
                   Architect for Integration and Data @ Canon Europa.
     description2: >
@@ -80,7 +75,6 @@ source:
     time: April, 2009 to October, 2011
     description: >
                   Worked with TMNS B.V as  technical architect. TMNS B.V.,  now part of the Devoteam is a well respected System Integratori/system srchitects' firm in The Netherlands and Switzerland.
-
     description1: >
                   Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects.
     description2: >
@@ -98,7 +92,6 @@ source:
     time: June, 2007 to February, 2009
     description: >
                   Was one of the first technical architects for HCL Technologies. Had a very successful stint with great business growth both for products and solutions.
-
     description1: >
                   Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions.
                   CISCO AON is a network-embedded/ appliance based middleware.
@@ -118,7 +111,6 @@ source:
     place: Oracle Server Technologies, India.
     time: April, 2006 to June, 2007
     description: Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team for Oracle Server Technologies.
-
     description1: >
                    Worked primarily with UDDI, BPEL Engine and original Oracle ESM on oc4j.(10.1.3.1). 
     description2: >
@@ -137,7 +129,6 @@ source:
     description: >
                   Worked with almost all products of the WebSphere stack,
                   large AIX base setups, developing and consulting for various customers across the globe.
-
     description1: >
                   Worked in 5 continents for IBM.
     description2: >
@@ -148,7 +139,6 @@ source:
                   Worked for Department of Work and Pensions on the first Secure first SOA Implementations.
     description5: >
                   Multi implementations of Tivoli, WebSphere MQ/WebSphere ESB to success.
-
 
     
   - prof: Developer
