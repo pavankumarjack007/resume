@@ -4,7 +4,7 @@ source:
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
-    description: >
+    description: > Senior Solution Director working cross verticals and responsible for our customer solutions. Work heavily with our Center of Excellence and implementation teams for reusable scalable all layer stacks.
 
     description1: >
                   Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
@@ -43,43 +43,92 @@ source:
   - prof: Senior Consultant
     place: Enable-U B.V., The Netherlands
     time: February 2013 to July, 2015
-    description: Governance, Integration, Security, Appliances, Registry, Cloud, API management, product dev, Nederlandse overheid (Dutch Government).
+    description: Worked on a discovery engine for systinet with large businesses/organisations using for governance, besides standard integration and  infrastrucure for Layer7 security rings deployment.
+
+    description1: >
+                  Systinet Dev for Various Governance as a discovery engine.
+    description2: >
+                  Integration and Security Appliances
+    description3: >
+                  API management and Infrastructure
+    description4: >
+                   Nederlandse overheid (Dutch Government).
+    description5: >
+                   Solution Implementations for African Government bodies.
 
   - prof: Domain Solution Architect
     place: Canon Europa N.V., The Netherlands
     time: October, 2011 to January, 2013
     description: >
+                  Domain Solution Architect for Integration and Data for Canon Europa N.V.
+
+    description1: >
                   Architect for Integration and Data @ Canon Europa.
+    description2: >
                   Design authority for Integration, data and B2B.
+    description3: >
                   Designing, building, implementing and managing the Canon landscape in WebSphere, Informatica, Oracle SOA Suite, virtual Infrastructure.
+    description4: >
                   Establishing DevOps and automation/scaling for Middleware for platform stabilization.
+    description5: >
                   Building the Centre Of Excellence.
+
 
   - prof: Technical Architect
     place: TMNS B.V., The Netherlands
     time: April, 2009 to October, 2011
     description: >
+                  Worked with TMNS B.V as  technical architect. TMNS B.V.,  now part of the Devoteam is a well respected System Integratori/system srchitects' firm in The Netherlands and Switzerland.
+
+    description1: >
                   Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects.
+    description2: >
                   Consulted, designed and developed for various Dutch and Swiss businesses in the SOA, BPM and CEP space.
+    description3: >
                   Architected and programmed a successful CEP based Automated online Ad optimization platform.
-                  Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques.
-                  Defined roadmaps for autonomic computing and implemented full scale AWS solutions.
+    description4: >
+                  Establishing DevOps and automation/scaling for Middleware for platform stabilization.
+    description5: >
+                  Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques. Defined roadmaps for autonomic computing and implemented full scale AWS solutions.
+
     
   - prof: Technical Architect
     place: HCL Technologies, India and the World.
     time: June, 2007 to February, 2009
     description: >
+                  Was one of the first technical architects for HCL Technologies. Had a very successful stint with great business growth both for products and solutions.
+
+    description1: >
                   Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions.
                   CISCO AON is a network-embedded/ appliance based middleware.
                   Led a team of developers.
                   We developed some of the first Enterprise class SaaS device connectors.
+    description2: >
                   Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks.
+    description3: >
                   Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate.
+    description4: >
+                  Led go to market for Cisco AON pilots in Israel with team.
+    description5: >
+                  Created Scalable Infrastrutes for lab maintenance, WebSphere topologies and Oracle SOA Suite topologies on various hypervisors.
+
 
   - prof: Senior Member Technical Staff
     place: Oracle Server Technologies, India.
     time: April, 2006 to June, 2007
-    description: Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team.
+    description: Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team for Oracle Server Technologies.
+
+    description1: >
+                   Worked primarily with UDDI, BPEL Engine and original Oracle ESM on oc4j.(10.1.3.1). 
+    description2: >
+                  Worked on Fabric with Weblogic and SOA Suite Composites including mediator.(11g)
+    description3: >
+                  Various feature injections as part of the process.
+    description4: >
+                  Topology pattern deployments in the labs.
+    description5: >
+                  Assist SWAT Teams.
+
     
   - prof: Engineer
     place: IBM, India and the World.
@@ -87,6 +136,19 @@ source:
     description: >
                   Worked with almost all products of the WebSphere stack,
                   large AIX base setups, developing and consulting for various customers across the globe.
+
+    description1: >
+                  Worked in 5 continents for IBM.
+    description2: >
+                  Highlights were the largest B2B Gateway implementation in the world for Nestle at their HQ in Vevey. This was on WebSphere Data Interchange.
+    description3: >
+                  Submitted various patterns for banking channel implementations. Worked as security specialists for large telecom customers using. 
+    description4: >
+                  Worked for Department of Work and Pensions on the first Secure first SOA Implementations.
+    description5: >
+                  Multi implementations of Tivoli, WebSphere MQ/WebSphere ESB to success.
+
+
     
   - prof: Developer
     place: Ontrack Systems Ltd., Calcutta, India
