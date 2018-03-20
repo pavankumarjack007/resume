@@ -38,6 +38,18 @@ source:
     place: Exact Software, The Netherlands
     time: August, 2015 to November, 2015
     description: R&D on future enabling Exact product portfolio.
+    description1: >
+                   Leading the Research and prototyping of a new fast, cloud enabled responsive avatar of the stable and most successful of Exact's back office ERP System.
+    description2: >
+                   Architect and program writer for invoking and Instrumenting Legacy Code base via decoupled Web Interceptors and a hyper Scalable COM Server.
+    description3: >
+                   Creating and implementing Architecture Deployment Blue prints for the range of Exact Product Lines on public, private and Hybrid Cloud systems.
+    description4: >
+                   Leading outsourced Data Center Choice and Implementation/Redesign initiatives for private/public Cloud.
+    description5: >
+		   Product Management for reducing market churn in older product lines.
+
+  - prof: Cloud Solution Architect
   
   - prof: Senior Consultant
     place: Enable-U B.V., The Netherlands
@@ -133,21 +145,45 @@ source:
     description1: >
                   Worked in 5 continents for IBM.
     description2: >
-                  Highlights were the largest B2B Gateway implementation in the world for Nestle at their HQ in Vevey. This was on WebSphere Data Interchange.
+                   Highlights were the largest B2B Gateway implementation in the world for Nestle at their HQ in Vevey. This was on WebSphere Data Interchange.
     description3: >
-                  Submitted various patterns for banking channel implementations. Worked as security specialists for large telecom customers using. 
+                   Submitted various patterns for banking channel implementations. Worked as security specialists for large telecom customers using. 
     description4: >
-                  Worked for Department of Work and Pensions on the first Secure first SOA Implementations.
+                   Worked for Department of Work and Pensions on the first Secure first SOA Implementations.
     description5: >
-                  Multi implementations of Tivoli, WebSphere MQ/WebSphere ESB to success.
+                   Multi implementations of Tivoli, WebSphere MQ/WebSphere ESB to success.
 
     
   - prof: Developer
     place: Ontrack Systems Ltd., Calcutta, India
     time: July, 2003 to October, 2003
     description: Developer of an end to end Distributed Logistics systems for Japanese and British customers.
+    description1: >
+                   Dwai worked in the eSCM (e-Supply Chain Management) initiative which aimed at integrating Mitsui & Company (UK) plc’s Supply chain model along with the process partners.
+    description2: >
+		   The main motivation was to move towards zero latency in transparent information sharing primarily
+via eDocuments.
+    description3: >
+		   Dwai defined the use cases of the eSCM product.
+    description4: >
+                   Implement Design patterns, the build systems and  runtime products like JBoss, the linux flavors, java packages to use.
+    description5: >
+                   Develop the core modules.
+
+    
     
   - prof: C++/Web developer
     place: Various, Pan Indian sub-continent.
     time: 2001 to July, 2003
     description: Worked as a java/c++/web programmer and linux administrator.
+    description1: >
+                   Worked mostly on messaging systems, large linux based topologies, web development and C++ routines.
+    description2: >
+		   Both Banking customers and product development.
+    description3: >
+		   Extensive use of WebLogic and Sun OS, besides standard linux flavours.
+    description4: >
+                   Implementation of various OOPs design patterns.
+    description5: >
+                   Work with initial VT-x.
+
