@@ -5,9 +5,17 @@ source:
     place: HCL Technologies, The Netherlands
     time: May, 2017 to Present
     description: >
+
+    description1: >
                   Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
+    description2: >
                   Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
+    description3: >
                   Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
+    description4: >
+                  Assist Go To market teams.
+    description5: >
+                  Focus on Standard Infrastructure as a code for immutable scalable infrastructures for our customers.
 
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands
