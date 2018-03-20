@@ -32,7 +32,7 @@ source:
     description4: >
                   Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
     description5: >
-                  Explore the repositories in the github media link with the pinned repositories @ <a href="https://github.com/dwaiba">https://github.com/dwaiba</a>.
+                  Explore the repositories in the github media link with the pinned repositories @ [https://github.com/dwaiba](https://github.com/dwaiba).
 
   - prof: Principal, Solution Architecture
     place: Exact Software, The Netherlands
@@ -44,7 +44,7 @@ source:
     time: February 2013 to July, 2015
     description: Worked on a discovery engine for systinet with large businesses/organisations using for governance, besides standard integration and  infrastrucure for Layer7 security rings deployment.
     description1: >
-                  Systinet Dev for Various Governance as a <a href="https://www.enable-u.com/portfolio-item/enable-u-2discover/">discovery engine</a>.
+                  Systinet Dev for Various Governance as a [discovery engine](https://www.enable-u.com/portfolio-item/enable-u-2discover/).
     description2: >
                   Integration and Security Appliances
     description3: >
