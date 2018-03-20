@@ -163,7 +163,7 @@ source:
     description2: >
                    The main motivation was to move towards zero latency in transparent information sharing primarily via eDocuments.
     description3: >
-		   Dwai defined the use cases of the eSCM product.
+                   Dwai defined the use cases of the eSCM product.
     description4: >
                    Implement Design patterns, the build systems and  runtime products like JBoss, the linux flavors, java packages to use.
     description5: >
