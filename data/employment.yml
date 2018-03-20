@@ -19,6 +19,16 @@ source:
                   Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus.
                   Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
                   Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
 
   - prof: Principal, Solution Architecture
     place: Exact Software, The Netherlands
@@ -40,6 +50,16 @@ source:
                   Establishing DevOps and automation/scaling for Middleware for platform stabilization.
                   Building the Centre Of Excellence.
     
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
   - prof: Technical Architect
     place: TMNS B.V., The Netherlands
     time: April, 2009 to October, 2011
@@ -60,11 +80,31 @@ source:
                   We developed some of the first Enterprise class SaaS device connectors.
                   Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks.
                   Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate.
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
 
   - prof: Senior Member Technical Staff
     place: Oracle Server Technologies, India.
     time: April, 2006 to June, 2007
     description: Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team.
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
     
   - prof: Engineer
     place: IBM, India and the World.
@@ -72,13 +112,43 @@ source:
     description: >
                   Worked with almost all products of the WebSphere stack,
                   large AIX base setups, developing and consulting for various customers across the globe.
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
     
   - prof: Developer
     place: Ontrack Systems Ltd., Calcutta, India
     time: July, 2003 to October, 2003
     description: Developer of an end to end Distributed Logistics systems for Japanese and British customers.
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
     
   - prof: C++/Web developer
     place: Various, Pan Indian sub-continent.
     time: 2001 to July, 2003
     description: Worked as a java/c++/web programmer and linux administrator.
+    description1: >
+                   text1
+    description2: >
+		   text2
+    description3: >
+		   text3
+    description4: >
+		   text4
+    description5: >
+		   text5
