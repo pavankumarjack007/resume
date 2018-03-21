@@ -86,8 +86,7 @@ source:
     place: TMNS B.V., The Netherlands
     time: April, 2009 to October, 2011
     description: >
-                  At TMNS, Dwai architected, consulted and developed in product agnostic IT initiatives, Enterprise Architecture, Open Systems, Oracle, WebSphere, Progress, Apama, TIBCO, Mule, Cloud based Infrastructure implementations and open source derivatives. Besides, Dwai also managed the VMware Server farm for TMNS as well as is one of the key initiators of the TMNS Amazon EC2 based IAAS (Infrastructure as a Service) Software
-delivery platform (SDP). Some highlights of his work at TMNS are as follows-
+                  At TMNS, Dwai architected, consulted and developed in product agnostic IT initiatives, Enterprise Architecture, Open Systems, Oracle, WebSphere, Progress, Apama, TIBCO, Mule, Cloud based Infrastructure implementations and open source derivatives. Besides, Dwai also managed the VMware Server farm for TMNS as well as is one of the key initiators of the TMNS Amazon EC2 based IAAS (Infrastructure as a Service) Software delivery platform (SDP). Some highlights of his work at TMNS are as follows-
     description1: >
                   Strategized, Architected, developed and implemented a major Complex Event Processing based internet product (O2mc) for a heavily funded EU Internet startup. He and his team used Complex Event Processing (Progress Apama) with EPL (Event Processing Language) algorithms, Sonic ESB, Progress OpenEdge, innovative use of Amazon Web Services (AWS) based highly scalable cloud Infrastructure and a full blown open sourced Nagios based
 monitoring in Amazon EC2 environment to make O2mc a success. O2mc is essentially an online advertisement channel optimization, retargeting platform with automated Adword bidding via machine learning principles.
