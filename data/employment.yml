@@ -88,18 +88,15 @@ source:
     description: >
                   At TMNS, Dwai architected, consulted and developed in product agnostic IT initiatives, Enterprise Architecture, Open Systems, Oracle, WebSphere, Progress, Apama, TIBCO, Mule, Cloud based Infrastructure implementations and open source derivatives. Besides, Dwai also managed the VMware Server farm for TMNS as well as is one of the key initiators of the TMNS Amazon EC2 based IAAS (Infrastructure as a Service) Software delivery platform (SDP). Some highlights of his work at TMNS are as follows-
     description1: >
-                  Strategized, Architected, developed and implemented a major Complex Event Processing based internet product (O2mc) for a heavily funded EU Internet startup. He and his team used Complex Event Processing (Progress Apama) with EPL (Event Processing Language) algorithms, Sonic ESB, Progress OpenEdge, innovative use of Amazon Web Services (AWS) based highly scalable cloud Infrastructure and a full blown open sourced Nagios based
-monitoring in Amazon EC2 environment to make O2mc a success. O2mc is essentially an online advertisement channel optimization, retargeting platform with automated Adword bidding via machine learning principles.
+                  Strategized, Architected, developed and implemented a major Complex Event Processing based internet product (O2mc) for a heavily funded EU Internet startup. He and his team used Complex Event Processing (Progress Apama) with EPL (Event Processing Language) algorithms, Sonic ESB, Progress OpenEdge, innovative use of Amazon Web Services (AWS) based highly scalable cloud Infrastructure and a full blown open sourced Nagios based monitoring in Amazon EC2 environment to make O2mc a success. O2mc is essentially an online advertisement channel optimization, retargeting platform with automated Adword bidding via machine learning principles.
     description2: >
-                  Was Involved at The International Criminal Court (ICC) as a Consulting Architect where he provided a comprehensive architectural roadmap to ICC for using Drools, Business Rules Management System (BRMS), JBoss ESB (Enterprise Service Bus), jBPM with Seam
-annotations, CDI (Contexts and Dependency injection), Apache CXF to be used in future implementations. He also built a roadmap of ICC’s Linux Infrastructure via detailed capacity planning, ported all their applications (seven in number) onto the JBoss Enterprise Application Platforms v5.1.0 and tuned the same.
+                  Was Involved at The International Criminal Court (ICC) as a Consulting Architect where he provided a comprehensive architectural roadmap to ICC for using Drools, Business Rules Management System (BRMS), JBoss ESB (Enterprise Service Bus), jBPM with Seam annotations, CDI (Contexts and Dependency injection), Apache CXF to be used in future implementations. He also built a roadmap of ICC’s Linux Infrastructure via detailed capacity planning, ported all their applications (seven in number) onto the JBoss Enterprise Application Platforms v5.1.0 and tuned the same.
     description3: >
                   Dwai was involved as an Enterprise Architect at G-Star RAW IT for the middleware and SOA technology choices including addressing the data integrity issues faced as well as the CRM strategy with salesforce.com and integration middleware.
     description4: >
                   Consulted for TMNS at xXess B.V, a Dutch Mobile startup for improving the throughput and performance of their Web Services. Dwai increased the complete transaction throughput by ~35% via thread tuning and smart code changes/ re-use.
     description5: >
-                  Dwai architected and developed the critical and tactical application (BSL FlexSat) in a new initiative for Swisscom Integration Framework @ Swisscom. TIBCO BusinessWorks (BW) was used to provision network slots, appointments and time required to the Customer via web
-services (WS) exposure of BW processes and WS calls to exposed stubs of the backend. At Swisscom, defined and developed new interfaces using WebSphere Message Broker (Esql and Java) as well as non-EJB based custom JEE apps on WebSphere Application Server. Also, retrofitted new features within the existing old interfaces and code base. Took care of the AIX 5.3 GL environments.
+                  Dwai architected and developed the critical and tactical application (BSL FlexSat) in a new initiative for Swisscom Integration Framework @ Swisscom. TIBCO BusinessWorks (BW) was used to provision network slots, appointments and time required to the Customer via webservices (WS) exposure of BW processes and WS calls to exposed stubs of the backend. At Swisscom, defined and developed new interfaces using WebSphere Message Broker (Esql and Java) as well as non-EJB based custom JEE apps on WebSphere Application Server. Also, retrofitted new features within the existing old interfaces and code base. Took care of the AIX 5.3 GL environments.
 
     
   - prof: Technical Architect
@@ -110,7 +107,7 @@ services (WS) exposure of BW processes and WS calls to exposed stubs of the back
 Some highlights of his work at HCL Technologies are as follows-
     description1: >
                   As a lead Solution Architect for HCL SOA Centre of Excellence passed Solutions, roadmaps, architectural work products, assessments in various inception stage and pre-sales activities for businesses as varied as Disney, Dai-ichi, Rexel Australia, Safeway, Goodyear Tire & Rubber Company, Cadbury, Labor & Industries (L&I) - Washington State, USAA Military Home, Life & Auto Insurance, GE Money, Tenaga Nasional Berhad, VF
-Imagewear and PAREXEL International, to name a few..
+Imagewear and PAREXEL International, to name a few.
     description2: >
                   As part of the Platform for Growth (PfG) program sponsored by the CIO of Halifax Bank of Scotland in Bristol(UK), Dwai implemented a SOA Governance model for managing the portfolio of services, the service lifecycle, funding process and the policies to restrict behavior & monitoring performance of services.
     description3: >
