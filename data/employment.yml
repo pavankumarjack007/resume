@@ -105,15 +105,12 @@ source:
     description: >
                   Was one of the first technical architects for HCL Technologies. Had a very successful stint with great business growth both for products and solutions. He also managed and led the HCL- Cisco AON Labs. He architected and consulted for various customers across various geographies. Some highlights of his work at HCL Technologies are as follows-
     description1: >
-                  As a lead Solution Architect for HCL SOA Centre of Excellence passed Solutions, roadmaps, architectural work products, assessments in various inception stage and pre-sales activities for businesses as varied as Disney, Dai-ichi, Rexel Australia, Safeway, Goodyear Tire & Rubber Company, Cadbury, Labor & Industries (L&I) - Washington State, USAA Military Home, Life & Auto Insurance, GE Money, Tenaga Nasional Berhad, VF
-Imagewear and PAREXEL International, to name a few.
+                  As a lead Solution Architect for HCL SOA Centre of Excellence passed Solutions, roadmaps, architectural work products, assessments in various inception stage and pre-sales activities for businesses as varied as Disney, Dai-ichi, Rexel Australia, Safeway, Goodyear Tire & Rubber Company, Cadbury, Labor & Industries (L&I) - Washington State, USAA Military Home, Life & Auto Insurance, GE Money, Tenaga Nasional Berhad, VF Imagewear and PAREXEL International, to name a few.
     description2: >
                   As part of the Platform for Growth (PfG) program sponsored by the CIO of Halifax Bank of Scotland in Bristol(UK), Dwai implemented a SOA Governance model for managing the portfolio of services, the service lifecycle, funding process and the policies to restrict behavior & monitoring performance of services.
     description3: >
-                  Dwai also managed the Cisco AON (Application-Oriented Network) labs, product enhancements, Cisco SaaS gateways and other solutions at HCL as well as led an mentored a team of developers. AON (Application Oriented Networking) is a major driver of Cisco Systems' IIN (Intelligent Information Network) vision where the AON module (device) is a blade that resides in a Cisco router or switch with Multiple AON modules being
-deployed in a network, operating and providing middleware functions at the application message level rather than IP packet level. It consists of a host of features including service virtualization, security, routing and transformation with the aid of bladelets and a plethora
-of adapters based on open Java APIs. Successfully implemented the following Cisco AON Initiatives for Cisco and HCL- 
-The Cisco AON - Orange Israel – A product piloting and Implemented the strategic WebEx Connect gateway for Cisco AON, post merger of WebEx with Cisco Inc.
+                  Dwai also managed the Cisco AON (Application-Oriented Network) labs, product enhancements, Cisco SaaS gateways and other solutions at HCL as well as led an mentored a team of developers. AON (Application Oriented Networking) is a major driver of Cisco Systems' IIN (Intelligent Information Network) vision where the AON module (device) is a blade that resides in a Cisco router or switch with Multiple AON modules being deployed in a network, operating and providing middleware functions at the application message level rather than IP packet level. It consists of a host of features including service virtualization, security, routing and transformation with the aid of bladelets and a plethora
+of adapters based on open Java APIs. Successfully implemented the following Cisco AON Initiatives for Cisco and HCL- The Cisco AON - Orange Israel – A product piloting and Implemented the strategic WebEx Connect gateway for Cisco AON, post merger of WebEx with Cisco Inc.
     description4: >
                   Evangelized and conducted various sponsored and internal workshops on SOA enablement, method, pattern implementations and on new technologies. Led the WebSphere and Oracle Fusion efforts for the Centre of Excellence.
     description5: >
@@ -133,8 +130,7 @@ initial 10.1.3.1 team for Oracle SOA Suite product development. The highlights o
     description3: >
                   Include and implement Brokered ESB, mediation patterns oriented features. Integration of 10.1.3 individual components primarily with WebSphere Network Deployment and WebSphere MQ.
     description4: >
-                  Build around 10 clustered/non-clustered environments (Linux RHEL 3 / RHEL 4) for his engineering team replicating customer topology combinations for the SOA Suite components at times integrated or deployed on WebSphere, besides the standard Oracle.
-Application Server.
+                  Build around 10 clustered/non-clustered environments (Linux RHEL 3 / RHEL 4) for his engineering team replicating customer topology combinations for the SOA Suite components at times integrated or deployed on WebSphere, besides the standard Oracle Application Server.
     description5: >
                   Assist SWAT Teams.
 
