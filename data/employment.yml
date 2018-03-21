@@ -52,7 +52,8 @@ source:
   - prof: Senior Consultant
     place: Enable-U B.V., The Netherlands and African Continent.
     time: February 2013 to July, 2015
-    description: Enable-U enables different businesses get a better grip on their IT Architecture. The company operations span across Benelux including the Dutch Government, European Instituitions, in South Africa and in the Middle-east. We provided and implemented automated API Management, SOA Governance solutions, Perimeter Appliance Security and Business Transformation Solutions via product stacks as well as developed product solutions.
+    description: >
+                  Enable-U enables different businesses get a better grip on their IT Architecture. The company operations span across Benelux including the Dutch Government, European Instituitions, in South Africa and in the Middle-east. We provided and implemented automated API Management, SOA Governance solutions, Perimeter Appliance Security and Business Transformation Solutions via product stacks as well as developed product solutions.
 ourselves. Some of Dwai's work @ Enable-U are as follows-
     description1: >
                   Created, implemented and productized the Enable-U Middleware AutoDiscovery and Governance as a High Traction flagship integration product with an essential team of two. Systinet Dev for Various Governance as a discovery engine- https://www.enable-u.com/portfolio-item/enable-u-2discover/. As part of the above, massive TIBCO ActiveMatrix Node Architectures as well as traditional businessWorks engine deployments can be extracted in real-time into runtime Governance with complete Business and Technical services dependencies into self controllable units. This leverages a SOA/API Model with AMX/BusinessWorks APIs optionally via runtime UDDI v3 API and Systinet APIs with a fool-proof Design, pattern-matching algorithms
