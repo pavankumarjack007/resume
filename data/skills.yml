@@ -2,7 +2,7 @@ name: Skills
 title: Rated
 
 source:
-  - name: [Large Customer Digital Transformations, Topology Patterns, Engineering Labs Automation, Engineering Team Management, Product Management, Solutioning, Distributed Program Writing, Micro Services Architecture, Container Management Platforms, HPC Fabrics, GPU Usage and provisioning, RNN using GPU for Scientific Applications, Business Budgeting, Upselling, Center of Excellence Driving, Integration Vendor Stacks]
+  - name: [Large Digital Transformations, Topology Patterns, Engineering Labs Automation, Engineering Team Management, Product Management, Solutioning, Distributed Program Writing, Micro Services Architecture, Container Management Platforms, HPC Fabrics, GPU Usage and provisioning, RNN using GPU for Scientific Applications, Business Budgeting, Upselling, Center of Excellence Driving, Integration Vendor Stacks]
     stars: 4
 
   - name: [Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, LINPACK, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, NVIDIA DIGITS, Toolkits like CNTK, Caffe2, Keras and Tensorflow, nvidia-docker]
