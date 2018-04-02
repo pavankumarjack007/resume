@@ -1,4 +1,5 @@
-- name: Initiatives
+name: Certifications
+source:
   - title: TOGAF 9
     place: The Netherlands
     date: 2010
