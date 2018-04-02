@@ -1,10 +1,9 @@
-#name: Initiatives
-#source:
-  #- title: Graduate Summer Student
-   # place: University of Glasgow, UK
-   # date: 2013
-   # type: courses
-   # description: Nec et duis iriure temporibus, ullum adolescens eam ea.
+name: Certifications
+  - title: TOGAF 9
+    place: The Netherlands
+    date: 2010
+    type: certification
+    description: TOGAF 9 Certification. View Certificate @ https://togaf9-cert.opengroup.org/printpdf/certificate/f135
 
   #- title: Student Volunteer
    # place: British RedCross, Glasgow, UK
