@@ -32,7 +32,7 @@ source:
   - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
     stars: 3
     
-  - name: [DB2, Oracle RDBMS, SQL Server, Postgressql, Redis, mongodb, HBase]
+  - name: [DB2, Oracle RDBMS ,Oracle RAC with Dataguard, SQL Server, PostgreSQL, Redis, mongodb, HBase]
     stars: 3
      
   - name: [Hadoop Data Platform components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy]
