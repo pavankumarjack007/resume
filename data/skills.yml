@@ -17,7 +17,7 @@ source:
   - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
     stars: 4
      
-  - name: [API Management , API Security and periphery, API Design, node-red, netflix spring boot, Loopback, 3scale, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
+  - name: [API Management , Apigee Platform with Edge Micro, 3scale APIcast and API Management, IBM API Management with DataPower Gateway Appliances, Mulesoft API Management with Mule 4.x core/GW,  API Security and periphery, API Design, node-red, netflix spring boot, Loopback, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
     stars: 4
     
   - name: [Hypervisors, Microvisors,KVM, Hyper-V, VMWare, vagrant, Hashicorp tools and consul]
