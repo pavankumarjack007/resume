@@ -7,15 +7,15 @@ source:
     description: > 
                   Senior Solution Director working cross verticals and responsible for our customer solutions. Work heavily with our Center of Excellence and implementation teams for reusable scalable all layer stacks.
     description1: >
-                  Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates. Automatic deployment of Bare Kubernetes or Redhat OpenShift Container Platform for various topologies and hypervisors and design of microservices. Extensively work for Digital Banks mostly using Docker Data Center for greenfield deployments.
+                  Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates. Automatic deployment of Bare or managed Kubernetes or Redhat OpenShift Container Platform for various topologies and hypervisors and design of microservices. Extensively work for Digital Banks for greenfield deployments.
     description2: >
                   Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
     description3: >
                   Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
     description4: >
-                  Assist Go To market teams.
+                  Assist Go To market teams. Focus on Standard Infrastructure as a code for immutable scalable infrastructures for our customers.
     description5: >
-                  Focus on Standard Infrastructure as a code for immutable scalable infrastructures for our customers.
+                  Contribute to Opensource and CNCF Projects on Github.
 
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands, Seattle and Houston - U.S.A
