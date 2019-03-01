@@ -9,10 +9,10 @@ source:
     description1: >
                   Primary Program writer for Infrastructure as code for multi-hypervisor enablement and large scale deployments.
     description2: >
-                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications.
+                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications with toolkits for supervised/un-supervised training against models.
     description3: >
                   Engineering lead and team mentor.
-    description5: >
+    description4: >
                   Contribute to Opensource and CNCF Projects on Github.
 
   - prof: Senior Solution Director
