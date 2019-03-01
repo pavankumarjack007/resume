@@ -19,11 +19,11 @@ theme = "hugo-vitae"
   linkedin = "dbanerj"
   #tel = "+44 0000 000000"
   #tel_full = "+440000000000"
-  google_maps = "https://www.google.com/maps/place/Woudlaan+Zoetermeer"
+  google_maps = "https://www.google.com/maps/place/Manyata+Tech+Park"
   #address = "44 Perth Street"
   #postcode = "EH3 5BL"
   city = "Bangalore"
-  country = "The Netherlands"
+  country = "India"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []

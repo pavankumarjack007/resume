@@ -1,6 +1,20 @@
 name: Experience 
 
 source:
+  - prof: Director/Principal Architect
+    place: Philips Healthcare Systems R&D, Philips Innovation Campus, India
+    time: December, 2018 to Present
+    description: > 
+                  Principal Architect for Health Suite On-premises world-wide at Philips Healthcare R&D. Enabling  Next Generation Healthcare systems on-premise
+    description1: >
+                  Primary Program writer for Infrastructure as code for multi-hypervisor enablement and large scale deployments.
+    description2: >
+                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications.
+    description3: >
+                  Engineering lead and team mentor.
+    description5: >
+                  Contribute to Opensource and CNCF Projects on Github.
+
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands and Western Europe
     time: May, 2017 to Present
