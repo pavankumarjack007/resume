@@ -27,7 +27,7 @@ source:
     stars: 4
     
   - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
-    stars: 4
+    stars: 5
     
   - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
     stars: 3
