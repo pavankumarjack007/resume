@@ -20,7 +20,7 @@ source:
   - name: [API Management, Apigee Platform with Istio Mixer, 3scale APIcast and API Management, IBM API Management with DataPower Gateway Appliances, Mulesoft API Management with Mule 4.x core/GW, API Security and periphery, API Design, node-red, netflix spring boot, Loopback, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
     stars: 4
     
-  - name: [Hypervisors, Microvisors, KVM, Hyper-V, VMWare, vagrant, Hashicorp tools- Terraform, vault and consul]
+  - name: [Hypervisors, Microvisors, KVM, Hyper-V, VMWare, Symphony StratoScale, vagrant, Terraform, vault and consul]
     stars: 4
   
   - name: [Container Management Platforms, Kubernetes/Heptio/GKE, Azure Kubernetes Service, Helm, Draft, Tiller Server, Charts, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs, Gitlab EE, Ansible for el7 and el6, SonarQube, GlusterFS, Container Native Storage, NVIDIA device plugins for Kubernetes]
