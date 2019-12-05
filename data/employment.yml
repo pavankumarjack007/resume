@@ -5,15 +5,15 @@ source:
     place: Philips Healthcare Systems R&D, Philips Campus, India
     time: December, 2018 to Present
     description: > 
-                  Principal Architect for Health Suite On-premises (HSoP) world-wide at Philips Healthcare R&D. Enabling  Next Generation Healthcare systems on-premise
+                  Principal Architect for Health Suite On-premises (HSoP) world-wide at Philips Healthcare R&D. Enabling  Next Generation Healthcare systems on-premise. 
     description1: >
-                  Primary Program writer for Infrastructure as code for multi-hypervisor enablement and large scale deployments including managed Kubernetes and the "hard way" for immutable infrastructure on premise.
+                  Primary Program writer for Infrastructure as code for multi-hypervisor enablement and large scale deployments including managed Kubernetes and the "hard way" for immutable infrastructure on premise. Designed and implemented with high feature toggle and scalability.
     description2: >
-                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications with toolkits for supervised/un-supervised training against models.
+                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications with toolkits for supervised/un-supervised training against models, Medical containers. GPU Fabrics choicesn for Compute/Visualization for various modules. 
     description3: >
                   Engineering lead and team mentor.
     description4: >
-                  Contribute to Opensource and CNCF Projects on Github.
+                  Contribute to Opensource and CNCF Projects.
     description5: >
                   Manage Multi-vendors for Philips HSoP hypervisor hardware.
 
